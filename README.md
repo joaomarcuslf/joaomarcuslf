@@ -3,16 +3,14 @@
 <center>
   <table>
     <tr>
-        <td  colspan="2"><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcuslf2&hide=html&layout=compact&theme=buefy" /></td>
+        <td  colspan="2"><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcuslf2&hide=html&layout=compact&theme=material-palenight" /></td>
     </tr>   
     <tr>
         <td>
-            <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaomarcuslf2&theme=buefy" />
-            <h3 style="text-align: center"> New profile </h3>
+            <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaomarcuslf2&theme=material-palenight" />
         </td>
         <td>
-            <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaomarcuslf&theme=buefy" />
-            <h3 style="text-align: center"> Old profile </h3>
+            <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaomarcuslf&theme=material-palenight" />
         </td>
     </tr>   
   </table>
