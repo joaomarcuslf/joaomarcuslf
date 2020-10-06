@@ -15,7 +15,7 @@
 
 ### :telescope: I’m currently working at:
 
-Full Stack Developer at [Working Minds](http://www.wkm.com.br/) since January 2020.
+**Full Stack Developer** at [Working Minds](http://www.wkm.com.br/) since January 2020.
 
 Working building softwares and web apps using some techs like:
 - React
@@ -29,11 +29,11 @@ Working building softwares and web apps using some techs like:
 
 ### :hourglass: I worked previously at:
 
-Software Developer at [Zoox Smart Data](https://zooxsmart.com/en/) between September 2018 and December 2019.
+**Software Developer** at [Zoox Smart Data](https://zooxsmart.com/en/) between September 2018 and December 2019.
 
-Full Stack Developer at [B2W Digital](https://carreiras.b2w.io/) between February 2017 and September 2018.
+**Full Stack Developer** at [B2W Digital](https://carreiras.b2w.io/) between February 2017 and September 2018.
 
-Front-end Developer at [Minds at Work](http://www.mindsatwork.com.br/) between May 2016 and January 2017.
+**Front-end Developer** at [Minds at Work](http://www.mindsatwork.com.br/) between May 2016 and January 2017.
 
 ### :seedling: I’m currently learning:
 
@@ -42,6 +42,8 @@ Python, R and studying some topics about Data science, hopefully soon will have 
 Alongside with Data science, I'm studying Mobile development with React Native.
 
 ### :mailbox: How to reach me:
+
+You can easily find me on **[my linktree](https://linktr.ee/joaomarcuslf)**.
 
 ### :zap: Fun fact:
 
