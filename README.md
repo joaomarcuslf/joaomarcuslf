@@ -1,4 +1,4 @@
-![capa github](https://github.com/joaomarcuslf2/joaomarcuslf2/blob/main/images/capa_perfil.png)
+![capa github](https://github.com/joaomarcuslf2/joaomarcuslf2/blob/main/capa_perfil.png)
 
 ## Hello there! :smile:
 
