@@ -6,10 +6,10 @@
   <table>
     <tr>
         <td>
-            <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcuslf2&hide=html&layout=compact&theme=vue" />
+            <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcuslf2&hide=html&layout=compact&theme=onedark" />
         </td>
         <td>
-            <img width="350px" src="https://github-readme-stats.vercel.app/api?username=joaomarcuslf2&theme=vue" />
+            <img width="350px" src="https://github-readme-stats.vercel.app/api?username=joaomarcuslf2&theme=onedark" />
         </td>
     </tr>
   </table>
@@ -17,19 +17,11 @@
 
 ### :telescope: I’m currently working at:
 
-**Full Stack Developer** at [Working Minds](http://www.wkm.com.br/) since January 2020.
-
-Working building softwares and web apps using some techs like:
-- React
-- Ruby on Rails
-- Wordpress
-- Ionic/Angular
-- Spring
-- Postgres
-- Docker
-
+**Comming Soon**
 
 ### :hourglass: I worked previously at:
+
+**Full Stack Developer** at [Working Minds](http://www.wkm.com.br/) between January 2020 and January 2021.
 
 **Software Developer** at [Zoox Smart Data](https://zooxsmart.com/en/) between September 2018 and December 2019.
 
