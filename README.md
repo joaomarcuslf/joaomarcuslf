@@ -1,4 +1,4 @@
-![capa github](https://github.com/joaomarcuslf2/joaomarcuslf2/blob/main/capa_perfil.png)
+![capa github](https://github.com/joaomarcuslf/joaomarcuslf/blob/main/capa_perfil.png)
 
 ## Hello there! :smile:
 
@@ -6,10 +6,10 @@
   <table>
     <tr>
         <td>
-            <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcuslf2&hide=html&layout=compact&theme=buefy" />
+            <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcuslf&hide=html&layout=compact&theme=buefy" />
         </td>
         <td>
-            <img width="350px" src="https://github-readme-stats.vercel.app/api?username=joaomarcuslf2&theme=buefy" />
+            <img width="350px" src="https://github-readme-stats.vercel.app/api?username=joaomarcuslf&theme=buefy" />
         </td>
     </tr>
   </table>
