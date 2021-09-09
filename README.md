@@ -2,6 +2,11 @@
 
 ## Hello there! :smile:
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcus-fernandes-4b8814ba)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://joaomarcuslf.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/joaomarcuslf)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@joaomarcuslf)
+
 <center>
   <table>
     <tr>
@@ -29,11 +34,11 @@
 
 **Front-end Developer** at [Minds at Work](http://www.mindsatwork.com.br/) between May 2016 and January 2017.
 
-### :seedling: I’m currently learning:
+### :seedling: I’m currently learning, and my stack:
 
-Python, R and studying some topics about Data science, hopefully soon will have an opportunity to put my studies into practice.
+I'm currently studying Cloud development, and using gRPC.
 
-Alongside with Data science, I'm studying Mobile development with React Native.
+My main laguages are Javascript, Go, Python and Ruby. I use MongoDB and Postgres.
 
 ### :mailbox: How to reach me:
 
