@@ -26,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="icon for react" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="icon for nextjs" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="icon for go" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="icon for python" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="icon for mongodb" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="icon for postgresql" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="icon for docker" width="40" height="40" style="max-width:100%;"></img>
@@ -52,6 +53,8 @@ You can easily find me on **[my linktree](https://linktr.ee/joaomarcuslf)**.
 
 ### :zap: Fun fact:
 
+- My favorite color is Purple 💜
 - I had simultaneously around 14 cats and 3 dogs.
 - I like learning things by applying those technologies to things I love, like MTG, Coffee and cats.
 - My first code experience was with around 9~10 years old, I changed the AI for Ragnarok Online following some Forums tips.
+- I am somewhat addict to card games, if they are mixed with some other mechanic, like a rougue-like game, this is my paradise.
