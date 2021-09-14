@@ -98,8 +98,6 @@ You can easily find me on **[my linktree](https://linktr.ee/joaomarcuslf)**.
 
 Their well being is my biggest motivation
 
-<img src="https://github.com/joaomarcuslf/joaomarcuslf/blob/main/lara.jpg" alt="picture for lara" width="50" height="50" style="max-width:100%;"></img>
-
-<img src="https://github.com/joaomarcuslf/joaomarcuslf/blob/main/cindy.jpg" alt="picture for cindy" width="50" height="50" style="max-width:100%;"></img>
-
-<img src="https://github.com/joaomarcuslf/joaomarcuslf/blob/main/nissa.jpg" alt="picture for nissa" width="50" height="50" style="max-width:100%;"></img>
+<img src="https://github.com/joaomarcuslf/joaomarcuslf/blob/main/lara.jpg" alt="picture for lara" width="80" height="80" style="max-width:100%;"></img>
+<img src="https://github.com/joaomarcuslf/joaomarcuslf/blob/main/cindy.jpg" alt="picture for cindy" width="80" height="80" style="max-width:100%;"></img>
+<img src="https://github.com/joaomarcuslf/joaomarcuslf/blob/main/nissa.jpg" alt="picture for nissa" width="80" height="80" style="max-width:100%;"></img>
