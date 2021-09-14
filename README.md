@@ -19,19 +19,54 @@
 
 #### My stack:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="icon for github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="icon for linux" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="icon for javascript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="icon for sass" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="icon for react" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="icon for nextjs" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="icon for go" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="icon for python" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="icon for mongodb" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="icon for postgresql" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="icon for docker" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="icon for amazonwebservices" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="icon for googlecloud" width="40" height="40" style="max-width:100%;"></img>
+<a href="https://github.com/joaomarcuslf?tab=repositories">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="icon for github" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
+<a href="https://github.com/joaomarcuslf?tab=repositories">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="icon for linux" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
+<a href="https://github.com/joaomarcuslf?tab=repositories&q=&type=&language=javascript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="icon for javascript" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
+<a href="https://github.com/joaomarcuslf?tab=repositories&q=&type=&language=css">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="icon for sass" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
+<a href="https://github.com/joaomarcuslf?tab=repositories&q=&type=&language=react">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="icon for react" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
+<a href="https://github.com/joaomarcuslf?tab=repositories&q=&type=&language=go">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="icon for go" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
+<a href="https://github.com/joaomarcuslf?tab=repositories&q=&type=&language=python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="icon for python" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
+<a href="https://github.com/joaomarcuslf?tab=repositories">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="icon for mongodb" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
+<a href="https://github.com/joaomarcuslf?tab=repositories">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="icon for postgresql" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
+<a href="https://github.com/joaomarcuslf?tab=repositories">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="icon for docker" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
+<a href="https://github.com/joaomarcuslf?tab=repositories">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="icon for amazonwebservices" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
+<a href="https://github.com/joaomarcuslf?tab=repositories">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="icon for googlecloud" width="50" height="50" style="max-width:100%;"></img>
+</a>
+
 
 ### :hourglass: I worked previously at:
 
@@ -57,4 +92,14 @@ You can easily find me on **[my linktree](https://linktr.ee/joaomarcuslf)**.
 - I had simultaneously around 14 cats and 3 dogs.
 - I like learning things by applying those technologies to things I love, like MTG, Coffee and cats.
 - My first code experience was with around 9~10 years old, I changed the AI for Ragnarok Online following some Forums tips.
-- I am somewhat addict to card games, if they are mixed with some other mechanic, like a rougue-like game, this is my paradise.
+- I am somewhat addict to card games, if they are mixed with some other mechanic, like a roguelike game, this is my paradise.
+
+### :dog2::cat2: Meet my pets:
+
+Their well being is my biggest motivation
+
+<img src="https://github.com/joaomarcuslf/joaomarcuslf/blob/main/lara.jpg" alt="picture for lara" width="50" height="50" style="max-width:100%;"></img>
+
+<img src="https://github.com/joaomarcuslf/joaomarcuslf/blob/main/cindy.jpg" alt="picture for cindy" width="50" height="50" style="max-width:100%;"></img>
+
+<img src="https://github.com/joaomarcuslf/joaomarcuslf/blob/main/nissa.jpg" alt="picture for nissa" width="50" height="50" style="max-width:100%;"></img>
