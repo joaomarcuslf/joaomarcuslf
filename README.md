@@ -8,8 +8,8 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@joaomarcuslf)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app//api?username=joaomarcuslf&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&h&theme=buefy" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcuslf&theme=buefy&show_icons=true&hide_border=true&layout=compact&langs_count=6&hide=html,vue,jupyter notebook"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app//api?username=joaomarcuslf&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&h&theme=buefy" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcuslf&theme=buefy&show_icons=true&hide_border=true&layout=compact&langs_count=6&hide=html,vue,jupyter notebook"/>
 </p>
 
 
