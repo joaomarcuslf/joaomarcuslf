@@ -15,7 +15,8 @@
 
 ### :telescope: I’m currently working at:
 
-**Software Engineer** at [Arctouch](https://arctouch.com/) since February 2021
+**Master Software Engineer** at [Arctouch](https://arctouch.com/) since February 2021
+- Previously **Senior Software Engineer** at [Arctouch](https://arctouch.com/)
 
 #### My stack:
 
