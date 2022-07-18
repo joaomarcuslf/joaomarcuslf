@@ -71,11 +71,11 @@
 
 ### :hourglass: I worked previously at:
 
-**Full Stack Developer** at [Working Minds](http://www.wkm.com.br/) between January 2020 and January 2021.
+**Full-Stack Developer** at [Working Minds](http://www.wkm.com.br/) between January 2020 and January 2021.
 
 **Software Developer** at [Zoox Smart Data](https://zooxsmart.com/en/) between September 2018 and December 2019.
 
-**Full Stack Developer** at [B2W Digital](https://carreiras.b2w.io/) between February 2017 and September 2018.
+**Full-Stack Developer** at [B2W Digital](https://carreiras.b2w.io/) between February 2017 and September 2018.
 
 **Front-end Developer** at [Minds at Work](http://www.mindsatwork.com.br/) between May 2016 and January 2017.
 
@@ -97,7 +97,7 @@ You can easily find me on **[my linktree](https://linktr.ee/joaomarcuslf)**.
 
 ### :dog2::cat2: Meet my pets:
 
-Their well being is my biggest motivation
+Their well-being is my biggest motivation
 
 <img src="https://github.com/joaomarcuslf/joaomarcuslf/blob/main/lara.jpg" alt="picture for lara" width="120" height="120" style="max-width:100%;"></img>
 <img src="https://github.com/joaomarcuslf/joaomarcuslf/blob/main/cindy.jpg" alt="picture for cindy" width="120" height="120" style="max-width:100%;"></img>
