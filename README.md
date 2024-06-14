@@ -66,7 +66,7 @@ When it comes to discussing topics, I'm particularly passionate about modern sof
 ## 💾 ORM
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
-![Active Record](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=ruby-on-rails)
+![Active Record](https://img.shields.io/badge/-Active Record-333333?style=flat&logo=ruby-on-rails)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
 
 ### 📱 Mobile
