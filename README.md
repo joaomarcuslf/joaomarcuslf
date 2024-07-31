@@ -62,11 +62,12 @@ When it comes to discussing topics, I'm particularly passionate about modern sof
 ## 🎲 Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=dynamodb)
 
 ## 💾 ORM
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
-![Active Record](https://img.shields.io/badge/-Active Record-333333?style=flat&logo=ruby-on-rails)
+![Active Record](https://img.shields.io/badge/-ActiveRecord-333333?style=flat&logo=ruby-on-rails)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=mongoose)
 
 ### 📱 Mobile
