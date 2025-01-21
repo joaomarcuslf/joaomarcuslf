@@ -1,4 +1,4 @@
-![capa github](https://github.com/joaomarcuslf/joaomarcuslf/blob/main/capa_perfil.png)
+![Profile Cover](https://github.com/joaomarcuslf/joaomarcuslf/blob/main/profile-cover.png)
 
 # Hello There, welcome to my Github page! 👋
 
@@ -21,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-<p lign="left"> 
+<p lign="left">
 My name is pronounced as Shoa-wn, like "Shown" but with A, but I usually answer by any "Jon" sounding, I'm a software engineer with a passion for building solutions. I have been working in the field since 2014, I have had the pleasure of working with companies across different continents, including Brazil, North America, Europe, and Asia.
 
 I graduated in "System Analysis and Development", and I have focused my skills in full-stack development and have taken on roles as a Tech Lead.
@@ -165,7 +165,7 @@ Languages and Technologies: `Social Media`, `Marketing`, `Wordpress`, `Facebook`
   </tr>
 </table>
 
-<details open> 
+<details open>
   <summary><h2>📁 Recent Repositories</h2></summary>
   <p align="left">
     <a href="https://github.com/joaomarcuslf/leet-discuss"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joaomarcuslf&repo=leet-discuss&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Archive LeetCode Challenges"></a>
