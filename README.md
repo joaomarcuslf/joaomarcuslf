@@ -5,13 +5,21 @@
 ### Staff Software Engineer | Go / Golang | JavaScript | React.js | Node.js | MongoDB | Python | Ruby
 
 <p align="left">
-  <a href="mailto:jmarcusfernandes@gmail.com" target="_blank" title="Gmail"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jmarcusfernandes@gmail.com" alt="Gmail" /> </a>
+  <a href="mailto:contact@joaomarcuslf.com" target="_blank" title="Gmail"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:contact@joaomarcuslf.com" alt="Gmail" /> </a>
 <a href="https://www.linkedin.com/in/joaomarcuslf/?locale=en_US" target="_blank" title="LinkedIn"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaomarcuslf/?locale=en_US" alt="LinkedIn" /> </a>
 <a href="https://joaomarcuslf.medium.com/" target="_blank" title="Medium"> <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&labelColor=12100E&logo=medium&logoColor=white&link=https://joaomarcuslf.medium.com/" alt="Medium" /> </a>
 <a href="https://www.joaomarcuslf.com/blog" target="_blank" title="My Blog"> <img src="https://img.shields.io/badge/-My Blog-741b47?style=flat-square&logo=pen&logoColor=white&link=https://www.joaomarcuslf.com/blog" alt="Blog" /> </a>
 <a href="https://leetcode.com/u/joaomarcuslf/" target="_blank" title="LeetCode"> <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjoaomarcuslf&logo=leetcode&logoColor=yellow" alt="LeetCode" /> </a>
-<a href="https://www.codewars.com/users/joaomarcuslf" target="_blank" title="Codewars"> <img src="https://www.codewars.com/users/joaomarcuslf/badges/micro" alt="codewars badge micro" /></a>
 </p>
+
+## 💻 Main Stack
+
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazonwebservices)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 <p lign="left"> 
 My name is pronounced as Shoa-wn, like "Shown" but with A, but I usually answer by any "Jon" sounding, I'm a software engineer with a passion for building solutions. I have been working in the field since 2014, I have had the pleasure of working with companies across different continents, including Brazil, North America, Europe, and Asia.
@@ -29,9 +37,18 @@ When it comes to discussing topics, I'm particularly passionate about modern sof
 
 ## 💻 Technical skills
 
+### ☁️ Cloud Stack
+
+![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazonwebservices)
+![GCP](https://img.shields.io/badge/Google%20Cloud-333333?&style=plastic&logo=Google%20Cloud&style=flat)
+![Azure](https://img.shields.io/badge/azure-%23333333.svg?style=flat&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%23333333.svg?style=flat&logo=githubactions&logoColor=white)
+![TravisCI](https://img.shields.io/badge/travis%20ci-%23333333.svg?style=flat&logo=travis&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-333333?style=flat&logo=amazons3&logoColor=white)
+
 ### 🗄️ Back-end
+
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
@@ -41,7 +58,6 @@ When it comes to discussing topics, I'm particularly passionate about modern sof
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Clojure](https://img.shields.io/badge/-Clojure-333333?style=flat&logo=clojure)
 ![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir)
 
 ### 🖥️ Front-end
@@ -61,8 +77,9 @@ When it comes to discussing topics, I'm particularly passionate about modern sof
 
 ## 🎲 Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=dynamodb)
+![PostgreSQL](https://img.shields.io/badge/postgresql-333333?style=flat&logo=postgresql)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-333333?style=flat&logo=amazondynamodb)
+![Redis](https://img.shields.io/badge/Redis-333333?style=for-the-badge&logo=redis&style=flat)
 
 ## 💾 ORM
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
@@ -74,6 +91,7 @@ When it comes to discussing topics, I'm particularly passionate about modern sof
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 ### 🤖 AI Services
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-333333?style=flat&logo=github-copilot)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Gemini](https://img.shields.io/badge/-Gemini-333333?style=flat&logo=Gemini)
