@@ -106,43 +106,43 @@ When it comes to discussing topics, I'm particularly passionate about modern sof
 
 ## 🧑🏻‍💻 Professional experience
 
-[<img align="left" height="94px" width="94px" alt="Arctouch Logo" src="https://media.licdn.com/dms/image/D560BAQHeyW6JWckctw/company-logo_100_100/0/1702488613057/arctouch_logo?e=1726704000&v=beta&t=Sr59KOMTw-MIfUi-jX_vdYShseKRy5ERfQjljvG6IBY"/>](https://www.linkedin.com/company/arctouch/)\
-**Software Engineer - Staff** [**Arctouch**](https://www.linkedin.com/company/arctouch/) • Full-time \
+[Arctouch](https://www.linkedin.com/company/arctouch/)\
+**Software Engineer - Staff** • Full-time - Remote \
 Languages and Technologies: `Go`, `Javascript`, `Communication`, `Leadership`, `MongoDB`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Arctouch Logo" src="https://media.licdn.com/dms/image/D560BAQHeyW6JWckctw/company-logo_100_100/0/1702488613057/arctouch_logo?e=1726704000&v=beta&t=Sr59KOMTw-MIfUi-jX_vdYShseKRy5ERfQjljvG6IBY"/>](https://www.linkedin.com/company/arctouch/)\
-**Software Engineer - Senior** [**Arctouch**](https://www.linkedin.com/company/arctouch/) • Full-time \
+[Arctouch](https://www.linkedin.com/company/arctouch/)\
+**Software Engineer - Senior** • Full-time - Remote \
 Languages and Technologies: `Go`, `React.js`, `Mentorship`, `Cloud Computing`, `Git`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Working Minds Logo" src="https://media.licdn.com/dms/image/C4E0BAQFL0nSW4dceIw/company-logo_100_100/0/1631326324818?e=1726704000&v=beta&t=HNUycl4KO_LObRozrYqSHSVOzn0YDWMuWm0YVI5szEs"/>](https://www.linkedin.com/company/working-minds/)\
-**Full-stack Developer - Intermediate** [**Working Minds**](https://www.linkedin.com/company/working-minds/) • Full-time \
+[Working Minds](https://www.linkedin.com/company/working-minds/)\
+**Full-stack Developer - Intermediate** • Full-time - Hybrid \
 Languages and Technologies: `Ruby on Rails`, `React.js`, `Leadership`, `Mobile Development`, `Git`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Zoox Smart Data Logo" src="https://media.licdn.com/dms/image/D4D0BAQGq2MNFh0gbbA/company-logo_100_100/0/1689689451655/zoox_smart_data_logo?e=1726704000&v=beta&t=4BvzzDGZfmc3Uy0pDgUcxfAa3AGiTaTZdpowmK6wpc0"/>](https://www.linkedin.com/company/zoox-smart-data-brasil/)\
-**Full-stack Developer - Intermediate** [**Zoox Smart Data**](https://www.linkedin.com/company/zoox-smart-data-brasil/) • Full-time \
+[Zoox Smart Data Brasil](https://www.linkedin.com/company/zoox-smart-data-brasil/)\
+**Full-stack Developer - Intermediate** • Full-time - Work from Office \
 Languages and Technologies: `Vue.js`, `MongoDB`, `JavaScript`, `Koa.js`, `Git`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="B2W Digital Logo" src="https://media.licdn.com/dms/image/C4D0BAQFkZ2H5lXBgjQ/company-logo_100_100/0/1630560969187/b2w___companhia_global_do_varejo_logo?e=1726704000&v=beta&t=7f__1rKaa3WkKTz9yIo67ANqCGd8V-1gfisc9UwMfco"/>](https://www.linkedin.com/company/b2w---companhia-global-do-varejo/)\
-**Full-stack Developer - Junior** [**B2W Digital**](https://www.linkedin.com/company/b2w---companhia-global-do-varejo/) • Full-time \
+[B2w Companhia Global do Varejo](https://www.linkedin.com/company/b2w---companhia-global-do-varejo/)\
+**Full-stack Developer - Junior** • Full-time - Work from Office \
 Languages and Technologies: `React.js`, `React Native`, `MongoDB`, `JavaScript`, `Node.JS`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Minds At Work Sistemas e Projetos Ltda Logo" src="https://media.licdn.com/dms/image/C510BAQFmDQdNQjDQOg/company-logo_100_100/0/1631343458273?e=1726704000&v=beta&t=V5nsC-68-0a4uDLdxLaUXOki9ZmSBXcPXyu6I01lJIo"/>](https://www.linkedin.com/company/minds-at-work-sistemas-e-projetos-ltda/)\
-**Front-endDeveloper - Internship** [**Minds At Work Sistemas e Projetos Ltda**](https://www.linkedin.com/company/minds-at-work-sistemas-e-projetos-ltda/) • Part-time \
+[Minds at Work Sistemas E Projetos Ltda](https://www.linkedin.com/company/minds-at-work-sistemas-e-projetos-ltda/)\
+**Front-endDeveloper - Internship** • Part-time - Work from Office \
 Languages and Technologies: `Angular.js`, `Spring`, `DotNet`, `SLQ Server`, `Jenkins`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="FAETERJ-Rio Logo" src="https://media.licdn.com/dms/image/C560BAQHadrxAB6-Rfw/company-logo_200_200/0/1631300622157?e=1726704000&v=beta&t=LDqg5Ub8b3_cmWtfIVScvUek-WwnEOhEwT5bqVv4mhU"/>](https://www.linkedin.com/school/faeterj-rio/)\
-**Front-end Developer - Technological Research Project(PICT)** [**FAETERJ-Rio**](https://www.linkedin.com/school/faeterj-rio/) • Part-time \
+[FAETERJ-Rio](https://www.linkedin.com/school/faeterj-rio/)\
+**Front-end Developer - Technological Research Project(PICT)** • Part-time - Remote \
 Languages and Technologies: `HTML`, `CSS`, `JavaScript`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="FAETERJ-Rio Logo" src="https://media.licdn.com/dms/image/C560BAQHadrxAB6-Rfw/company-logo_200_200/0/1631300622157?e=1726704000&v=beta&t=LDqg5Ub8b3_cmWtfIVScvUek-WwnEOhEwT5bqVv4mhU"/>](https://www.linkedin.com/school/faeterj-rio/)\
-**Social Media - Internship** [**FAETERJ-Rio**](https://www.linkedin.com/school/faeterj-rio/) • Part-time \
+[FAETERJ-Rio](https://www.linkedin.com/school/faeterj-rio/)\
+**Social Media - Internship** • Part-time - Remote \
 Languages and Technologies: `Social Media`, `Marketing`, `Wordpress`, `Facebook`, `Agile`\
 <br/>
 
