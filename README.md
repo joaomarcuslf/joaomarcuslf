@@ -58,7 +58,6 @@ When it comes to discussing topics, I'm particularly passionate about modern sof
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Elixir](https://img.shields.io/badge/-Elixir-333333?style=flat&logo=elixir)
 
 ### 🖥️ Front-end
 
