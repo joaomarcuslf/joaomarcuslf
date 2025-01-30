@@ -2,7 +2,7 @@
 
 # Hello There, welcome to my Github page! 👋
 
-### Staff Software Engineer | Go / Golang | JavaScript | React.js | Node.js | MongoDB | Python | Ruby
+### Staff Software Engineer | Go / Golang | Node.js | Python | Ruby | MongoDB
 
 <p align="left">
   <a href="mailto:contact@joaomarcuslf.com" target="_blank" title="Gmail"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:contact@joaomarcuslf.com" alt="Gmail" /> </a>
